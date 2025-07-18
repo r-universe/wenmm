@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "EMTscore"]
 	path = EMTscore
-	url = https://github.com/cran/EMTscore
+	url = https://github.com/wenmm/emtscore
